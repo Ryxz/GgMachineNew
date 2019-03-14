@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">蚂蚱传媒</string>
+    <string name="video_notfound_erro">未找到视频源</string>
+    <string name="not_connect_net">网络未连接，请连接网络后再试</string>
+    <string name="sure">确定</string>
+    <string name="tips">提示</string>
+    <string name="model_1">MODEL_1</string>
+    <string name="model_2">MODEL_2</string>
+    <string name="model_3">MODEL_3</string>
+    <string name="model_4">MODEL_4</string>
+
+
+    <dimen name="first_modes_video_height">250dp</dimen>
+
+</resources>

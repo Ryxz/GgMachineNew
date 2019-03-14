@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="74dp"
+    android:background="@color/mediacontroller_bg"
+    android:orientation="vertical" >
+
+    <!--<io.vov.vitamio.widget.VideoView-->
+        <!--android:id="@+id/vitamio_videoview"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--/>-->
+
+
+
+</RelativeLayout>
